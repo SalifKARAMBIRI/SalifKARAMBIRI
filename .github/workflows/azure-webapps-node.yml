@@ -28,9 +28,9 @@ env:
   NODE_VERSION: '20.x'                # set this to the node version to use
 
 permissions:
-  contents:
-jobs:
-  build:
+  contents: Sali KARAMBIRI 
+jobs: étudiant 
+  build:  Hacker 
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
